@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="39c770d2-06dd-4996-9833-cc055eca89d3" name="Changes" comment="" />
+    <list default="true" id="39c770d2-06dd-4996-9833-cc055eca89d3" name="Changes" comment="added git.ignore" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,10 +58,35 @@
       <updated>1723565403460</updated>
       <workItem from="1723565404853" duration="5000" />
       <workItem from="1723566852706" duration="51000" />
+      <workItem from="1723567937536" duration="53000" />
     </task>
+    <task id="LOCAL-00001" summary="added git.ignore">
+      <option name="closed" value="true" />
+      <created>1723567985593</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1723567985593</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added git.ignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="added git.ignore" />
   </component>
 </project>
